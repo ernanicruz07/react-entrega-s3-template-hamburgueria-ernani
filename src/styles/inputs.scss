@@ -1,0 +1,12 @@
+.inp {
+  display: inline-flex;
+  width: 100%;
+  height: 60px;
+  padding: 0 10px 0 20px;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 8px;
+  border: 2px solid var(--color-grey100);
+  background: #fff;
+}
